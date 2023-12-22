@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mario190204
+- 👋 Hi, I’m Mario
 - 👀 I’m interested in basketball, calisthenics, music and much more.
 - 🌱 I’m currently learning java programming in Eclipse.
 - 💞️ I’m looking to collaborate on interesting projects.
