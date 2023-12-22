@@ -2,7 +2,7 @@
 - 👀 I’m interested in basketball, calisthenics, music and much more.
 - 🌱 I’m currently learning java programming in Eclipse.
 - 💞️ I’m looking to collaborate on interesting projects.
-- 📫 How to reach me dimitrievsimario@gmail.com
+- 📫 How to reach me dimitrievskimario@gmail.com
 
 <!---
 Mario190204/Mario190204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
